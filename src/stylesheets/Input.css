@@ -1,0 +1,20 @@
+.input_container {
+  display: grid;
+  grid-column: 1 / 5;
+  color: red;
+}
+
+.input_text {
+  padding: 0 10px;
+  height: 15vh;
+  width: 100%;
+  outline: none;
+  border: 2px solid #00000040;
+  border-radius: 10px;
+  background-color: #00000090;
+  font-size: 3rem;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  color: #ffefd575;
+}
