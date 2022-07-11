@@ -7,6 +7,7 @@
   font-size: 2rem;
   font-weight: bold;
   color: #ffc0cb90;
+  user-select: none;
 }
 
 .button_click:active {
